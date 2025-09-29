@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Lead__c</members>
+        <members>Opportunity__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Lead__c.Email_Address_Required</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
+        <members>Lead__c.Match_Leads_on_Email</members>
+        <name>MatchingRule</name>
+    </types>
+    <types>
+        <members>Lead__c.Prevent_Duplicate_Leads_on_Email</members>
+        <name>DuplicateRule</name>
+    </types>
+    <types>
+        <members>unfiled$public/Opportunities_from_Converted_Leads</members>
+        <name>Report</name>
+    </types>
+    <version>59.0</version>
+</Package>
