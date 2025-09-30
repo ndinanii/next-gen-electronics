@@ -1,6 +1,6 @@
-### Salesforce Data Modeling and Management — README
+### Salesforce Data Modeling and Management
 
-> A practical mini‑project to design a simple Salesforce data model for NextGen Electronics, import clean data, enforce data quality, and surface insights via reporting. Managed end‑to‑end with Notion for planning, tasks, and submission tracking.
+> A practical mini‑project to design a simple Salesforce data model for NextGen Electronics, import clean data, enforce data quality, build a system that tracks leads and opportunities so the sales team can follow up efficiently and generate accurate reports, and surface insights via reporting. Managed end‑to‑end with Notion for planning, tasks, and submission tracking.
 > 
 
 ---
